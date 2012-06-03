@@ -1,0 +1,23 @@
+IMPLEMENTANDO
+- alguna manera para determinar cuanto tiempo esta logeando vs cuanto esta esperando datos
+
+
+
+BUG
+
+- no graba automatico
+CAMBIAR A UN FORMATO CON ESCAPE Y SINCRONIZMO PARA EL LOGGER!!!
+
+FEATURE
+
+- levantar remotamente los datos del serie. quizas, por blutu!
+- usar EEPROM para determinar que cosas logeamos y que no? ej: bata/corriente?
+
+MINOR
+
+- cambiar los nombre de los .h, sobre todo GoroCommands
+- englishizar las variables, los comentarios, y todo lo demas
+
+
+
+
